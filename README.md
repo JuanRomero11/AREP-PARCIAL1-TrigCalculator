@@ -1,1 +1,2 @@
-# AREP-PARCIAL1-TrigCalculator
+# AREP-PARCIAL1
+parcial primer corte
