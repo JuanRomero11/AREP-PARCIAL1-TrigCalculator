@@ -20,7 +20,10 @@ Este proyecto basicamente esta construido en maven y el editor que se utilizo fu
 
 ## Diseño
 
-![alt text]()
+![alt text](https://github.com/JuanRomero11/AREP-PARCIAL1-TrigCalculator/blob/main/imagenes/descargaParcial.png)
+
+
+Este como se muestra en este repo esta TrigCalculator
 
 ## Descripcion del diseño
 
@@ -33,10 +36,7 @@ En este mismo repositorio puede clonar o descargar el proyecto a traves de la ap
 Despues de que el proyecto esta clonado se accede a la consola del computador en este caso accedemos a la terminal de comandos de Windows(cmd) y entramos directamente en la carpeta en donde esta nuestro proyecto y como primer paso compilamos con el comando 
 
         mvn package
-
-
-![alt text]()
-      
+        
 ## Despliegue
 
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://morning-beach-49926.herokuapp.com/index?calcular=cos-3.1415)
@@ -57,11 +57,20 @@ Despues de ello se ejecutan todas las pruebas realizadas
 
 Las pruebas se realizaron con los siguientes datos:
 
-![alt text]()
+![alt text](https://github.com/JuanRomero11/AREP-PARCIAL1-TrigCalculator/blob/main/imagenes/desliegueHeroku.PNG)
 
-y
+Aqui se puede eviendeciaor que los parametros para que funcione la apliacion tiene que ser la operacion que quiere realizar como
+        
+                cos
+                sen
+                tang
+                
+y un guion seguido del numero al que le quiere realizar la operacion 
+ 
+https://morning-beach-49926.herokuapp.com/index?calcular={operacion}-{numero}
+
 
 ## Autor
 Juan Guillermo Romero 
 ## License
-Este codigo tiene una licencia Apache License 2.0 la cual se detalla en 
+Este codigo tiene una licencia Apache License 2.0 la cual se detalla en https://github.com/JuanRomero11/AREP-PARCIAL1-TrigCalculator/blob/main/LICENSE
