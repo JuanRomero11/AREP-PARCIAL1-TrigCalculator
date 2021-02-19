@@ -1,4 +1,4 @@
-# AREP parcial primer corte
+# Parcial primer corte
 # Profesor: Luis Daniel Benavides
 # AREP - Arquitecturas Empresariales 2021-1
 
